@@ -25,7 +25,7 @@ const About = () => {
                  and I'm from <span className="yellow"> India.</span>
                 <br />
                 <br />
-                I am a second-year Computer Science Engineering (CSE) student, expected to graduate in 2027. Currently, I am focused on developing my technical skills. My journey includes learning various programming languages and exploring technology.
+                I am a Third-year Computer Science Engineering (CSE) student, expected to graduate in 2027. Currently, I am focused on developing my technical skills. My journey includes learning various programming languages and exploring technology.
                 <br />
                 <br />
                   As a
